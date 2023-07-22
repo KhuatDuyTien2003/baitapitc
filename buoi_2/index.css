@@ -1,0 +1,53 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bai1 .header {
+  height: 100px;
+  background-color: RGB(24, 92, 152);
+  height: auto;
+  width: 100%;
+}
+.bai1 .header ul {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+.bai1 .header ul li {
+  margin: 5px;
+  font-weight: bold;
+  font-size: 17px;
+  color: #fff;
+}
+.bai1 .content {
+  width: 80%;
+  margin-left: 10%;
+}
+.bai1 .content img {
+  width: auto;
+  height: 500px;
+}
+
+.bai3 {
+  width: 100%;
+  margin: 50px 0;
+  height: 300px;
+}
+.bai3 table {
+  width: 70%;
+  border: 1px solid black;
+  margin: 50px 0 50px 15%;
+}
+.bai3 table td {
+  border: 1px solid black;
+}
+.bai3 table th {
+  border: 1px solid black;
+}/*# sourceMappingURL=index.css.map */
